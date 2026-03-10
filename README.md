@@ -1,6 +1,6 @@
 <!-- omit in toc -->
 
-# Awesome Kustomize [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 443,833 | 🐛 75 | 📅 2026-03-04 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/aabouzaid/awesome-kustomize/compare) ⭐ 115 | 🐛 2 | 📅 2025-10-26 with stars
+# Awesome Kustomize [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 444,208 | 🐛 75 | 📅 2026-03-09 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/aabouzaid/awesome-kustomize/compare) ⭐ 115 | 🐛 2 | 📅 2025-10-26 with stars
 
 <p align="center">
   <a href="https://kustomize.io">
@@ -55,7 +55,7 @@ Kustomize has 3 types of plugins `generator`, `transformer`, and `validator`.
 > Note
 >
 > If you are a plugin developer, it's highly recommended to support the new plugins standard
-> [KRM function](https://github.com/kubernetes-sigs/kustomize/blob/master/cmd/config/docs/api-conventions/functions-spec.md) ⭐ 11,966 | 🐛 175 | 🌐 Go | 📅 2026-03-05.
+> [KRM function](https://github.com/kubernetes-sigs/kustomize/blob/master/cmd/config/docs/api-conventions/functions-spec.md) ⭐ 11,967 | 🐛 175 | 🌐 Go | 📅 2026-03-05.
 
 ### Generators
 
@@ -118,6 +118,6 @@ Snippets are Kustmoize use-case-specific examples that can help with common day-
 
 ## Related lists
 
-* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) ⭐ 15,829 | 🐛 43 | 🌐 Shell | 📅 2026-02-27 - A curated list of awesome Kubernetes resources.
-* [Awesome Helm](https://github.com/cdwv/awesome-helm) ⭐ 1,090 | 🐛 7 | 📅 2025-05-23 - A curated list of awesome Helm charts and resources.
+* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) ⭐ 15,831 | 🐛 44 | 🌐 Shell | 📅 2026-02-27 - A curated list of awesome Kubernetes resources.
+* [Awesome Helm](https://github.com/cdwv/awesome-helm) ⭐ 1,091 | 🐛 7 | 📅 2025-05-23 - A curated list of awesome Helm charts and resources.
 * [Awesome Kubectl plugins](https://github.com/ishantanu/awesome-kubectl-plugins) ⭐ 1,001 | 🐛 3 | 📅 2025-11-05 - A curated list of awesome Kubectl plugins.
