@@ -1,6 +1,6 @@
 <!-- omit in toc -->
 
-# Awesome Kustomize [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 449,199 | 🐛 89 | 📅 2026-03-09 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/aabouzaid/awesome-kustomize/compare) ⭐ 114 | 🐛 2 | 📅 2025-10-26 with stars
+# Awesome Kustomize [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 449,443 | 🐛 88 | 📅 2026-03-09 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/aabouzaid/awesome-kustomize/compare) ⭐ 114 | 🐛 2 | 📅 2025-10-26 with stars
 
 <p align="center">
   <a href="https://kustomize.io">
@@ -55,7 +55,7 @@ Kustomize has 3 types of plugins `generator`, `transformer`, and `validator`.
 > Note
 >
 > If you are a plugin developer, it's highly recommended to support the new plugins standard
-> [KRM function](https://github.com/kubernetes-sigs/kustomize/blob/master/cmd/config/docs/api-conventions/functions-spec.md) ⭐ 11,993 | 🐛 170 | 🌐 Go | 📅 2026-03-26.
+> [KRM function](https://github.com/kubernetes-sigs/kustomize/blob/master/cmd/config/docs/api-conventions/functions-spec.md) ⭐ 11,996 | 🐛 170 | 🌐 Go | 📅 2026-03-26.
 
 ### Generators
 
