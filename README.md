@@ -1,6 +1,6 @@
 <!-- omit in toc -->
 
-# Awesome Kustomize [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 449,694 | 🐛 88 | 📅 2026-03-09 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/aabouzaid/awesome-kustomize/compare) ⭐ 114 | 🐛 2 | 📅 2025-10-26 with stars
+# Awesome Kustomize [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 449,988 | 🐛 87 | 📅 2026-03-09 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/aabouzaid/awesome-kustomize/compare) ⭐ 114 | 🐛 2 | 📅 2025-10-26 with stars
 
 <p align="center">
   <a href="https://kustomize.io">
@@ -62,7 +62,7 @@ Kustomize has 3 types of plugins `generator`, `transformer`, and `validator`.
 * [KSops](https://github.com/viaduct-ai/kustomize-sops) ⭐ 816 | 🐛 39 | 🌐 Go | 📅 2026-03-19 - Generating Secrets from sops-encrypted files (Exec).
 * [SopsSecretGenerator](https://github.com/goabout/kustomize-sopssecretgenerator/) ⭐ 115 | 🐛 4 | 🌐 Go | 📅 2024-04-11 - Generating Secrets from sops-encrypted files (Exec, Exec KRM).
 * [Secretize](https://github.com/bbl/secretize) ⭐ 71 | 🐛 5 | 🌐 Go | 📅 2025-07-15 - Generating Kubernetes Secret from various sources. It's like a swiss army knife, but for Kubernetes secrets (Exec).
-* [Merger](https://github.com/aabouzaid/kustomize-plugin-merger) ⭐ 39 | 🐛 5 | 🌐 Go | 📅 2026-03-28 - Generating manifests seamlessly by extending Kustomize merge strategies using schemaless StrategicMerge (Containerized KRM, Exec KRM).
+* [Merger](https://github.com/aabouzaid/kustomize-plugin-merger) ⭐ 39 | 🐛 5 | 🌐 Go | 📅 2026-03-29 - Generating manifests seamlessly by extending Kustomize merge strategies using schemaless StrategicMerge (Containerized KRM, Exec KRM).
 * [PolicyGenerator](https://github.com/open-cluster-management-io/policy-generator-plugin) ⭐ 35 | 🐛 5 | 🌐 Go | 📅 2026-03-24 - Generating Open Cluster Management policies (Exec).
 * [KRMFfnBuiltin](https://github.com/kaweezle/krmfnbuiltin) ⭐ 5 | 🐛 5 | 🌐 Go | 📅 2024-05-01 - Running builtin generators transformers (Exec).
 
@@ -118,6 +118,6 @@ Snippets are Kustmoize use-case-specific examples that can help with common day-
 
 ## Related lists
 
-* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) ⭐ 15,842 | 🐛 49 | 🌐 Shell | 📅 2026-02-27 - A curated list of awesome Kubernetes resources.
+* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) ⭐ 15,843 | 🐛 49 | 🌐 Shell | 📅 2026-02-27 - A curated list of awesome Kubernetes resources.
 * [Awesome Helm](https://github.com/cdwv/awesome-helm) ⭐ 1,093 | 🐛 9 | 📅 2025-05-23 - A curated list of awesome Helm charts and resources.
 * [Awesome Kubectl plugins](https://github.com/ishantanu/awesome-kubectl-plugins) ⭐ 1,004 | 🐛 4 | 📅 2025-11-05 - A curated list of awesome Kubectl plugins.
