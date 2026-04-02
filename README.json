@@ -85,7 +85,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-04-01T01:56:06Z",
+            "last_commit": "2026-04-02T01:20:28Z",
             "owner": "DevOpsHiveHQ",
             "repo": "kustomize-plugin-merger",
             "stars": 39
@@ -178,7 +178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-01T04:50:53.267Z",
+    "last_updated": "2026-04-02T04:34:01.600Z",
     "original_repository": "DevOpsHiveHQ/awesome-kustomize",
     "source_repository": "v1nvn/enhansome-kustomize",
     "source_repository_description": null,
