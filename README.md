@@ -1,6 +1,6 @@
 <!-- omit in toc -->
 
-# Awesome Kustomize [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 453,984 | 🐛 59 | 📅 2026-04-02 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/aabouzaid/awesome-kustomize/compare) ⭐ 114 | 🐛 2 | 📅 2026-04-07 with stars
+# Awesome Kustomize [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 454,333 | 🐛 60 | 📅 2026-04-02 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/aabouzaid/awesome-kustomize/compare) ⭐ 114 | 🐛 2 | 📅 2026-04-07 with stars
 
 <p align="center">
   <a href="https://kustomize.io">
@@ -55,14 +55,14 @@ Kustomize has 3 plugin types: `generator`, `transformer`, and `validator`.
 > Note
 >
 > If you are a plugin developer, it's highly recommended to support the new plugins standard
-> [KRM function](https://github.com/kubernetes-sigs/kustomize/blob/master/cmd/config/docs/api-conventions/functions-spec.md) ⭐ 12,018 | 🐛 170 | 🌐 Go | 📅 2026-04-08.
+> [KRM function](https://github.com/kubernetes-sigs/kustomize/blob/master/cmd/config/docs/api-conventions/functions-spec.md) ⭐ 12,021 | 🐛 170 | 🌐 Go | 📅 2026-04-08.
 
 ### Generators
 
 * [KSops](https://github.com/viaduct-ai/kustomize-sops) ⭐ 819 | 🐛 45 | 🌐 Go | 📅 2026-04-08 - Generating Secrets from sops-encrypted files (Exec).
 * [SopsSecretGenerator](https://github.com/goabout/kustomize-sopssecretgenerator/) ⭐ 115 | 🐛 4 | 🌐 Go | 📅 2024-04-11 - Generating Secrets from sops-encrypted files (Exec KRM, Exec).
 * [Secretize](https://github.com/bbl/secretize) ⭐ 71 | 🐛 3 | 🌐 Go | 📅 2026-04-07 - Generating Kubernetes Secret from various sources. It's like a Swiss Army knife, but for Kubernetes secrets (Containerized KRM, Exec KRM, Exec).
-* [Merger](https://github.com/aabouzaid/kustomize-plugin-merger) ⭐ 39 | 🐛 5 | 🌐 Go | 📅 2026-04-10 - Generating manifests seamlessly by extending Kustomize merge strategies using schemaless StrategicMerge (Containerized KRM, Exec KRM).
+* [Merger](https://github.com/aabouzaid/kustomize-plugin-merger) ⭐ 39 | 🐛 5 | 🌐 Go | 📅 2026-04-11 - Generating manifests seamlessly by extending Kustomize merge strategies using schemaless StrategicMerge (Containerized KRM, Exec KRM).
 * [PolicyGenerator](https://github.com/open-cluster-management-io/policy-generator-plugin) ⭐ 35 | 🐛 5 | 🌐 Go | 📅 2026-04-09 - Generating Open Cluster Management policies (Exec).
 * [KRMFfnBuiltin](https://github.com/kaweezle/krmfnbuiltin) ⭐ 5 | 🐛 5 | 🌐 Go | 📅 2024-05-01 - Running builtin generators transformers (Exec).
 
