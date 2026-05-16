@@ -59,7 +59,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-14T17:19:03Z",
+            "last_commit": "2026-05-15T17:34:59Z",
             "owner": "open-cluster-management-io",
             "repo": "policy-generator-plugin",
             "stars": 35
@@ -144,7 +144,7 @@
             "last_commit": "2026-04-28T13:39:35Z",
             "owner": "ramitsurana",
             "repo": "awesome-kubernetes",
-            "stars": 15931
+            "stars": 15934
           }
         },
         {
@@ -178,7 +178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-15T05:58:55.727Z",
+    "last_updated": "2026-05-16T05:31:03.972Z",
     "original_repository": "DevOpsHiveHQ/awesome-kustomize",
     "source_repository": "v1nvn/enhansome-kustomize",
     "source_repository_description": null,
