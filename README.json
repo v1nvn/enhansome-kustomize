@@ -144,7 +144,7 @@
             "last_commit": "2026-04-28T13:39:35Z",
             "owner": "ramitsurana",
             "repo": "awesome-kubernetes",
-            "stars": 15934
+            "stars": 15935
           }
         },
         {
@@ -167,7 +167,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2025-05-23T20:56:11Z",
+            "last_commit": "2026-05-16T21:05:30Z",
             "owner": "cdwv",
             "repo": "awesome-helm",
             "stars": 1097
@@ -178,7 +178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-16T05:31:03.972Z",
+    "last_updated": "2026-05-17T05:52:57.805Z",
     "original_repository": "DevOpsHiveHQ/awesome-kustomize",
     "source_repository": "v1nvn/enhansome-kustomize",
     "source_repository_description": null,
