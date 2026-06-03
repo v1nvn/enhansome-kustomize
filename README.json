@@ -59,7 +59,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-05-21T22:14:39Z",
+            "last_commit": "2026-06-02T15:20:47Z",
             "owner": "open-cluster-management-io",
             "repo": "policy-generator-plugin",
             "stars": 35
@@ -178,7 +178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-02T06:46:53.253Z",
+    "last_updated": "2026-06-03T06:58:07.009Z",
     "original_repository": "DevOpsHiveHQ/awesome-kustomize",
     "source_repository": "v1nvn/enhansome-kustomize",
     "source_repository_description": null,
