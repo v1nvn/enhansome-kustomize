@@ -49,7 +49,7 @@
             "last_commit": "2026-04-14T03:42:39Z",
             "owner": "viaduct-ai",
             "repo": "kustomize-sops",
-            "stars": 835
+            "stars": 836
           }
         },
         {
@@ -170,7 +170,7 @@
             "last_commit": "2026-05-16T21:05:30Z",
             "owner": "cdwv",
             "repo": "awesome-helm",
-            "stars": 1099
+            "stars": 1100
           }
         }
       ],
@@ -178,7 +178,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-07T06:34:50.037Z",
+    "last_updated": "2026-06-08T06:50:04.206Z",
     "original_repository": "DevOpsHiveHQ/awesome-kustomize",
     "source_repository": "v1nvn/enhansome-kustomize",
     "source_repository_description": null,
