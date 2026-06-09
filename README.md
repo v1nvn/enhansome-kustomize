@@ -1,6 +1,6 @@
 <!-- omit in toc -->
 
-# Awesome Kustomize [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 473,864 | 🐛 85 | 📅 2026-06-02 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/aabouzaid/awesome-kustomize/compare) ⭐ 118 | 🐛 2 | 📅 2026-04-07 with stars
+# Awesome Kustomize [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 474,098 | 🐛 82 | 📅 2026-06-02 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/aabouzaid/awesome-kustomize/compare) ⭐ 119 | 🐛 2 | 📅 2026-04-07 with stars
 
 <p align="center">
   <a href="https://kustomize.io">
@@ -12,7 +12,7 @@
 
 [Kustomize](https://kustomize.io) introduces a template-free way to customize Kubernetes manifests. It's extensible and uses a purely declarative approach to configuration customization, helping you efficiently manage your Infrastructure as Code (IaC).
 
-Contributions are welcome, add links through [pull requests](https://github.com/aabouzaid/awesome-kustomize/pulls) ⭐ 118 | 🐛 2 | 📅 2026-04-07 or create an issue to start a discussion.
+Contributions are welcome, add links through [pull requests](https://github.com/aabouzaid/awesome-kustomize/pulls) ⭐ 119 | 🐛 2 | 📅 2026-04-07 or create an issue to start a discussion.
 
 Push it forward and add the project badge in your repo to support the community! ⭐
 
@@ -24,7 +24,7 @@ Markdown:
 
 Preview:
 
-[![Awesome Kustomize](https://raw.githubusercontent.com/DevOpsHiveHQ/awesome-kustomize/main/img/awesome-kustomize-badge.svg)](https://github.com/DevOpsHiveHQ/awesome-kustomize) ⭐ 118 | 🐛 2 | 📅 2026-04-07
+[![Awesome Kustomize](https://raw.githubusercontent.com/DevOpsHiveHQ/awesome-kustomize/main/img/awesome-kustomize-badge.svg)](https://github.com/DevOpsHiveHQ/awesome-kustomize) ⭐ 119 | 🐛 2 | 📅 2026-04-07
 
 <!-- omit in toc -->
 
@@ -55,7 +55,7 @@ Kustomize has 3 plugin types: `generator`, `transformer`, and `validator`.
 > Note
 >
 > If you are a plugin developer, it's highly recommended to support the new plugins standard
-> [KRM function](https://github.com/kubernetes-sigs/kustomize/blob/master/cmd/config/docs/api-conventions/functions-spec.md) ⭐ 12,065 | 🐛 170 | 🌐 Go | 📅 2026-06-08.
+> [KRM function](https://github.com/kubernetes-sigs/kustomize/blob/master/cmd/config/docs/api-conventions/functions-spec.md) ⭐ 12,066 | 🐛 170 | 🌐 Go | 📅 2026-06-08.
 
 ### Generators
 
